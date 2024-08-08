@@ -1,167 +1,75 @@
+# Mobile Application Interface Using Figma (Medical Center - NSBM)
 
-    <h1 style="color: blue; font-size: 36px;">MOBILE APPLICATION INTERFACE USING FIGMA ( MEDICAL CENTER-NSBM )</h1>
-    <p style="font-family: Arial, sans-serif;">Software used for the design interface: Figma</p>
+This project showcases the user interface design for a medical application created using Figma. The application is intended for the Medical Center at NSBM, providing various features aimed at improving user experience and accessibility.
 
-    <div style="padding:20px;">
-    <p style="font-family: Arial, sans-serif;">Using Figma for designing the user interface of your medical application offers several benefits, 
-especially focused on:
-</p>
-    <ul>
-        <li>Ease of Use: A simple interface reduces complexity, making it easier for users to understand and 
-navigate the application without feeling overwhelmed.</li>
-        
-<li>Faster Learning Curve: Users can quickly learn how to use the application, leading to higher user 
-adoption rates and increased user satisfaction.</li>
+## Software Used
+- **Design Tool:** Figma
 
-<li>Feature 2Efficient Interaction: Simplified interfaces streamline user interactions, allowing users to 
-accomplish tasks more efficiently and with fewer steps.</li>
+## Features and Benefits
 
-<li>Reduced Errors: Complex interfaces can lead to user errors. A simple interface minimizes the 
-chances of errors, enhancing user confidence and trust in the application.
-</li>
+### 1. Ease of Use
+A simple interface reduces complexity, making it easier for users to understand and navigate the application without feeling overwhelmed.
 
-    </ul>
+### 2. Faster Learning Curve
+Users can quickly learn how to use the application, leading to higher user adoption rates and increased user satisfaction.
 
-    <img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
+### 3. Efficient Interaction
+Simplified interfaces streamline user interactions, allowing users to accomplish tasks more efficiently and with fewer steps.
 
-</div>
+### 4. Reduced Errors
+Complex interfaces can lead to user errors. A simple interface minimizes the chances of errors, enhancing user confidence and trust in the application.
 
+---
 
-<div style="padding:20px;">
+## Screenshots
 
-    <h2 style="color: red;">Signup:</h2>
-    <p>Users can create a new account by providing necessary details such as name, email address, 
-password, etc.
-</p>
+### Signup
+Users can create a new account by providing necessary details such as name, email address, password, etc.
 
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
+![Signup Page](images/signup_screenshot.png)
 
-</div>
+### Login
+Registered users can log in to their account using their credentials.
 
+![Login Page](images/login_screenshot.png)
 
+### Phone Verification
+To enhance security, a phone verification step can be included where users verify their phone number through an SMS code.
 
+![Phone Verification](images/phone_verification_screenshot.png)
 
-<div style="padding:20px;">
+### User Profile
+Users can view and manage their personal information, such as name, contact details, and medical information.
 
-    <h2 style="color: red;">Login:</h2>
-    <p>Registered users can log in to their account using their credentials.
+![User Profile](images/user_profile_screenshot.png)
 
-</p>
+### Services
+Users can access information about medical services offered by the university medical center:
 
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
+- **Medi News:** Provide users with the latest medical news, updates, and articles to keep them informed about health-related topics.
+- **BMI Calculator:** Allow users to calculate their Body Mass Index (BMI) based on their height and weight, providing them with an indication of their overall health status.
+- **Appointment Scheduling:** Enable users to schedule appointments with healthcare providers at the university, making it convenient for them to manage their healthcare needs.
+- **Health Goals:** Allow users to set and track their health goals, such as weight loss, exercise targets, etc., to help them maintain a healthy lifestyle.
 
-</div>
+![Services](images/services_screenshot.png)
 
+### Ongoing Activities
+This section can include information about ongoing medical programs, events, or campaigns at the university.
 
+![Ongoing Activities](images/ongoing_activities_screenshot.png)
 
+### Quick Help Data Form
+A form where users can quickly input basic information about their health concern or query for quick assistance.
 
+![Quick Help Form](images/quick_help_form_screenshot.png)
 
-<div style="padding:20px;">
+### Medical History
+Users can maintain and update their medical history, including past illnesses, treatments, allergies, etc.
 
-    <h2 style="color: red;">Phone Verification: </h2>
-    <p>To enhance security, a phone verification step can be included where users verify 
-their phone number through an SMS code.
+![Medical History](images/medical_history_screenshot.png)
 
-</p>
+---
 
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
+## Conclusion
 
-</div>
-
-
-
-
-
-
-<div style="padding:20px;">
-
-    <h2 style="color: red;">User Profile:</h2>
-    <p>Users can view and manage their personal information, such as name, contact details, and medical information
-</p>
-
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
-
-</div>
-
-
-
-<div style="padding:20px;">
-
-     <h2 style="color: red;">Services:</h2>
-    <p>Users can access information about medical services offered by the university medical center
-</p>
-
-    <ul>
-        <li>Medi News: Provide users with the latest medical news, updates, and articles to keep them 
-informed about health-related topics.</li>
-        
-<li>BMI Calculator: Allow users to calculate their Body Mass Index (BMI) based on their height and 
-weight, providing them with an indication of their overall health status.
-</li>
-
-<li>Appointment Scheduling: Enable users to schedule appointments with healthcare providers at 
-the university, making it convenient for them to manage their healthcare needs.</li>
-
-<li>Health Goals: Allow users to set and track their health goals, such as weight loss, exercise 
-targets, etc., to help them maintain a healthy lifestyle.
-
-</li>
-
-    </ul>
-
-    <img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-
-</div>
-
-
-
-
-
-<div style="padding:20px;">
-
-    <h2 style="color: red;">Ongoing Activities:</h2>
-    <p>This section can include information about ongoing medical programs, events, or 
-campaigns at the university.
-
-</p>
-
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
-
-</div>
-
-
-
-<div style="padding:20px;">
-
-    <h2 style="color: red;">Quick Help Data Form:</h2>
-    <p>A form where users can quickly input basic information about their health 
-concern or query for quick assistance.
-
-
-</p>
-
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
-
-</div>
-
-
-
-<div style="padding:20px;">
-
-    <h2 style="color: red;">Medical History:</h2>
-    <p>Users can maintain and update their medical history, including past illnesses, 
-treatments, allergies, etc.
-
-</p>
-
-<img src="images/screenshot.png" alt="Project Screenshot" style="max-width: 100%;">
-    
-
-</div>
-
+This mobile application interface, designed using Figma, focuses on simplicity and user-friendliness, making it easier for users to interact with the Medical Center at NSBM. The design promotes efficient interaction, reduces errors, and ensures that users can access essential medical services with ease.
