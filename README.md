@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>MOBILE APPLICATION INTERFACE USING FIGMA ( MEDICAL CENTER-NSBM )</title>
-</head>
-<body>
+
     <h1 style="color: blue; font-size: 36px;">MOBILE APPLICATION INTERFACE USING FIGMA ( MEDICAL CENTER-NSBM )</h1>
     <p style="font-family: Arial, sans-serif;">Software used for the design interface: Figma</p>
 
@@ -170,13 +165,3 @@ treatments, allergies, etc.
 
 </div>
 
-
-
-
-
-
-
-
-
-</body>
-</html>
