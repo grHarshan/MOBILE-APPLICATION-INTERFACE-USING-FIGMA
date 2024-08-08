@@ -3,7 +3,10 @@
 This project showcases the user interface design for a medical application created using Figma. The application is intended for the Medical Center at NSBM, providing various features aimed at improving user experience and accessibility.
 
 
- ![First Page align=center](https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/01.png)
+<div align="center">
+	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/01.png)">
+</div>
+
 
 ## Software Used
 - **Design Tool:** Figma
