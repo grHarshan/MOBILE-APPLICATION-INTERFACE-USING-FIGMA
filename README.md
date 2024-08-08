@@ -32,22 +32,30 @@ Complex interfaces can lead to user errors. A simple interface minimizes the cha
 ### Signup
 Users can create a new account by providing necessary details such as name, email address, password, etc.
 
-![Signup Page](images/signup_screenshot.png)
+<div align="center">
+	<img src="https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/02.png  ">
+</div>
 
 ### Login
 Registered users can log in to their account using their credentials.
 
-![Login Page](images/login_screenshot.png)
+<div align="center">
+	<img src=" https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/03.png ">
+</div>
 
 ### Phone Verification
 To enhance security, a phone verification step can be included where users verify their phone number through an SMS code.
 
-![Phone Verification](images/phone_verification_screenshot.png)
+<div align="center">
+	<img src="https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/04.png">
+</div>
 
 ### User Profile
 Users can view and manage their personal information, such as name, contact details, and medical information.
 
-![User Profile](images/user_profile_screenshot.png)
+<div align="center">
+	<img src=" https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/05.png ">
+</div>
 
 ### Services
 Users can access information about medical services offered by the university medical center:
@@ -57,22 +65,29 @@ Users can access information about medical services offered by the university me
 - **Appointment Scheduling:** Enable users to schedule appointments with healthcare providers at the university, making it convenient for them to manage their healthcare needs.
 - **Health Goals:** Allow users to set and track their health goals, such as weight loss, exercise targets, etc., to help them maintain a healthy lifestyle.
 
-![Services](images/services_screenshot.png)
+<div align="center">
+	<img src=" https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/06.png ">
+</div>
 
 ### Ongoing Activities
 This section can include information about ongoing medical programs, events, or campaigns at the university.
 
-![Ongoing Activities](images/ongoing_activities_screenshot.png)
+<div align="center">
+	<img src=" https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/07.png ">
+</div>
 
 ### Quick Help Data Form
 A form where users can quickly input basic information about their health concern or query for quick assistance.
 
-![Quick Help Form](images/quick_help_form_screenshot.png)
-
+<div align="center">
+	<img src=" https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/08.png ">
+</div>
 ### Medical History
 Users can maintain and update their medical history, including past illnesses, treatments, allergies, etc.
 
-![Medical History](images/medical_history_screenshot.png)
+<div align="center">
+	<img src=" https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/09.png ">
+</div>
 
 ---
 
