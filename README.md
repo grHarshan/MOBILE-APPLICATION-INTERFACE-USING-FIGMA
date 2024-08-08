@@ -4,7 +4,7 @@ This project showcases the user interface design for a medical application creat
 
 
 <div align="center">
-	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/01.png)">
+	<img src="https://i.imgur.com/8BgVXcY.png](https://github.com/grHarshan/MOBILE-APPLICATION-INTERFACE-USING-FIGMA/blob/main/mobile%20application%20interface%20for%20NSBM%20medical%20center/01.png">
 </div>
 
 
